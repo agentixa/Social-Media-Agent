@@ -1,0 +1,5 @@
+{
+  "name": "Social Synchro: AI Content Generator",
+  "description": "A cross-platform social media content generator. Users input an idea and a desired tone, and the app simultaneously generates drafted posts tailored for LinkedIn, Twitter/X, and Instagram, along with unique images optimized for each platform's aspect ratio.",
+  "requestFramePermissions": []
+}
